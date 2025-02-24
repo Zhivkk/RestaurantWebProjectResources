@@ -1,0 +1,828 @@
+[
+  {
+    "name": "агнешки дреболии - комплект",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "агнешко месо",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "бахар",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "билки",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "бисквити",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "брашно",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "бульон",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "бульон свински",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "бяло вино",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "ванилия",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "вино",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "водка",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "галета",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "грах",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "грис",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "гъби",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "дафинов лист",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "джоджен",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "доматено пюре",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "домати",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "жълтъци",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "захар",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зелен лук",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зелени чушки",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зеленчуков бульон",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зехтин",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зрял боб",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кайма",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "какао",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "канела",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "канелени пръчици",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "картофи",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кафе",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "качамак",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кашкавал",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кимион",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кисела зелка",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кисели краставички",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кисело зеле",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кисело мляко",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "Кока кола",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кокосов орех",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "копър",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кори",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "краве масло",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "краставици",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "лимон",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "локум",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "лук",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "магданоз",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "мазнина",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "майорана",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "маруля",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "мас",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "маслини",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "масло",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "масло",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "мастика",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "мащерка",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "мая",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "мента",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "мляко",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "моркови",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "нишесте",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "олио",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "орехи",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "ориз",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "ориз",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "оцет",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "паприкаш",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "патладжани",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "Пепси кола",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "печурки",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "пилешки бутчета",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "пилешки гърди",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "пилешко месо",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "пилешко месо",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "пипер",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "пресен лук",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "прясно мляко",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "пудра захар",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "Ракия",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "риба - шаран",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "риган",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "розмарин",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "ром",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "свинска мас",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "свинска плешка",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "свински врат",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "свински гърди",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "свинско месо",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "сирене",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "скумрия",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "сланина",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "сол",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "стафиди",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "стафиди",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "суров суджук",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "телешко месо - джолан",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "телешко шкембе",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "тиква",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "Узо",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "фиде",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "хляб",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "царевично брашно",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "цедено кисело мляко",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "целина",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "червен пипер",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "червени чушки",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "черен пипер",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "черни маслини",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "чесън",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "чубрица",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "чушки",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "чушки печени",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "шарена сол",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "шунка",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "яйца",
+    "quantity": "",
+    "minQuantity": "",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+]
