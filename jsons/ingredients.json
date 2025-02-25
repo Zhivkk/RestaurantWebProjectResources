@@ -1,287 +1,287 @@
 [
   {
     "name": "агнешки дреболии - комплект",
-    "quantity": "",
+    "quantity": "2000",
     "minQuantity": "2000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "агнешко месо",
-    "quantity": "",
+    "quantity": "5000",
     "minQuantity": "5000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "бахар",
-    "quantity": "",
+    "quantity": "100",
     "minQuantity": "100",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "билки",
-    "quantity": "",
+    "quantity": "200",
     "minQuantity": "200",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "бисквити",
-    "quantity": "",
+    "quantity": "5000",
     "minQuantity": "5000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "брашно",
-    "quantity": "",
+    "quantity": "10000",
     "minQuantity": "10000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "бульон",
-    "quantity": "",
+    "quantity": "5000",
     "minQuantity": "5000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "бульон свински",
-    "quantity": "",
+    "quantity": "2000",
     "minQuantity": "2000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "бяло вино",
-    "quantity": "",
+    "quantity": "5000",
     "minQuantity": "5000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "ванилия",
-    "quantity": "",
+    "quantity": "50",
     "minQuantity": "50",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "вино",
-    "quantity": "",
-    "minQuantity": "3000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "водка",
-    "quantity": "",
-    "minQuantity": "10000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "галета",
-    "quantity": "",
-    "minQuantity": "2000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "грах",
-    "quantity": "",
-    "minQuantity": "5000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "грис",
-    "quantity": "",
-    "minQuantity": "3000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "гъби",
-    "quantity": "",
-    "minQuantity": "5000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "дафинов лист",
-    "quantity": "",
-    "minQuantity": "300",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "джоджен",
-    "quantity": "",
-    "minQuantity": "300",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "доматено пюре",
-    "quantity": "",
-    "minQuantity": "5000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "домати",
-    "quantity": "",
-    "minQuantity": "10000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "жълтъци",
-    "quantity": "",
-    "minQuantity": "5000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "захар",
-    "quantity": "",
-    "minQuantity": "10000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "зелен лук",
-    "quantity": "",
-    "minQuantity": "3000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "зелени чушки",
-    "quantity": "",
-    "minQuantity": "5000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "зеленчуков бульон",
-    "quantity": "",
-    "minQuantity": "5000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "зехтин",
-    "quantity": "",
-    "minQuantity": "5000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "зрял боб",
-    "quantity": "",
-    "minQuantity": "10000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "кайма",
-    "quantity": "",
-    "minQuantity": "10000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "какао",
-    "quantity": "",
-    "minQuantity": "2000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "канела",
-    "quantity": "",
-    "minQuantity": "500",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "канелени пръчици",
-    "quantity": "",
-    "minQuantity": "500",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "картофи",
-    "quantity": "10000",
-    "minQuantity": "10000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "кафе",
-    "quantity": "10000",
-    "minQuantity": "10000",
-    "createdOn": "",
-    "updatedOn": ""
-  },
-  {
-    "name": "качамак",
     "quantity": "3000",
     "minQuantity": "3000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
-    "name": "кашкавал",
+    "name": "водка",
     "quantity": "10000",
     "minQuantity": "10000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
-    "name": "кимион",
+    "name": "галета",
+    "quantity": "2000",
+    "minQuantity": "2000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "грах",
+    "quantity": "5000",
+    "minQuantity": "5000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "грис",
+    "quantity": "3000",
+    "minQuantity": "3000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "гъби",
+    "quantity": "5000",
+    "minQuantity": "5000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "дафинов лист",
     "quantity": "300",
     "minQuantity": "300",
     "createdOn": "",
     "updatedOn": ""
   },
   {
+    "name": "джоджен",
+    "quantity": "500",
+    "minQuantity": "300",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "доматено пюре",
+    "quantity": "7000",
+    "minQuantity": "5000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "домати",
+    "quantity": "18500",
+    "minQuantity": "10000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "жълтъци",
+    "quantity": "8300",
+    "minQuantity": "5000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "захар",
+    "quantity": "16550",
+    "minQuantity": "10000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зелен лук",
+    "quantity": "4500",
+    "minQuantity": "3000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зелени чушки",
+    "quantity": "7200",
+    "minQuantity": "5000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зеленчуков бульон",
+    "quantity": "8000",
+    "minQuantity": "5000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зехтин",
+    "quantity": "8950",
+    "minQuantity": "5000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "зрял боб",
+    "quantity": "18000",
+    "minQuantity": "10000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кайма",
+    "quantity": "12500",
+    "minQuantity": "10000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "какао",
+    "quantity": "2500",
+    "minQuantity": "2000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "канела",
+    "quantity": "800",
+    "minQuantity": "500",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "канелени пръчици",
+    "quantity": "750",
+    "minQuantity": "500",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "картофи",
+    "quantity": "25000",
+    "minQuantity": "10000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кафе",
+    "quantity": "17000",
+    "minQuantity": "10000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "качамак",
+    "quantity": "3500",
+    "minQuantity": "3000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кашкавал",
+    "quantity": "17200",
+    "minQuantity": "10000",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
+    "name": "кимион",
+    "quantity": "500",
+    "minQuantity": "300",
+    "createdOn": "",
+    "updatedOn": ""
+  },
+  {
     "name": "кисела зелка",
-    "quantity": "10000",
+    "quantity": "14500",
     "minQuantity": "10000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "кисели краставички",
-    "quantity": "10000",
+    "quantity": "12100",
     "minQuantity": "10000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "кисело зеле",
-    "quantity": "10000",
+    "quantity": "15400",
     "minQuantity": "10000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "кисело мляко",
-    "quantity": "10000",
+    "quantity": "12600",
     "minQuantity": "10000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "Кока кола",
-    "quantity": "100000",
+    "quantity": "150000",
     "minQuantity": "100000",
     "createdOn": "",
     "updatedOn": ""
@@ -295,99 +295,99 @@
   },
   {
     "name": "копър",
-    "quantity": "500",
+    "quantity": "600",
     "minQuantity": "500",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "кори",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "3200",
+    "minQuantity": "4000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "краве масло",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "7100",
+    "minQuantity": "5000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "краставици",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "19000",
+    "minQuantity": "15000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "лимон",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "5000",
+    "minQuantity": "3000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "локум",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "3100",
+    "minQuantity": "3000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "лук",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "11600",
+    "minQuantity": "10000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "магданоз",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "500",
+    "minQuantity": "1000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "мазнина",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "4100",
+    "minQuantity": "3000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "майорана",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "500",
+    "minQuantity": "1000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "маруля",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "8000",
+    "minQuantity": "7000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "мас",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "3500",
+    "minQuantity": "3000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "маслини",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "30000",
+    "minQuantity": "20000",
     "createdOn": "",
     "updatedOn": ""
   },
   {
     "name": "масло",
-    "quantity": "",
-    "minQuantity": "",
+    "quantity": "5500",
+    "minQuantity": "5000",
     "createdOn": "",
     "updatedOn": ""
   },
