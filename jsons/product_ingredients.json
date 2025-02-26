@@ -2,2514 +2,1796 @@
   {
     "product_id": 1,
     "ingredient_id": 27,
-    "quantity": 60,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 60
   },
   {
     "product_id": 1,
     "ingredient_id": 49,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 1,
     "ingredient_id": 109,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 1,
     "ingredient_id": 63,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 1,
     "ingredient_id": 20,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 1,
     "ingredient_id": 65,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 1,
     "ingredient_id": 18,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 1,
     "ingredient_id": 50,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 1,
     "ingredient_id": 59,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 1,
     "ingredient_id": 112,
-    "quantity": 4,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 4
   },
   {
     "product_id": 1,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 2,
     "ingredient_id": 46,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 2,
     "ingredient_id": 106,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 2,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 2,
     "ingredient_id": 112,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 2,
     "ingredient_id": 43,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 2,
     "ingredient_id": 110,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 2,
     "ingredient_id": 65,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 3,
     "ingredient_id": 77,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 3,
     "ingredient_id": 49,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 3,
     "ingredient_id": 63,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 3,
     "ingredient_id": 103,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 3,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 3,
     "ingredient_id": 110,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 3,
     "ingredient_id": 50,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 3,
     "ingredient_id": 104,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 3,
     "ingredient_id": 56,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 3,
     "ingredient_id": 116,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 4,
     "ingredient_id": 28,
-    "quantity": 71,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 71
   },
   {
     "product_id": 4,
     "ingredient_id": 8,
-    "quantity": 6,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 6
   },
   {
     "product_id": 4,
     "ingredient_id": 67,
-    "quantity": 29,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 29
   },
   {
     "product_id": 4,
     "ingredient_id": 118,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 4,
     "ingredient_id": 49,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 4,
     "ingredient_id": 32,
-    "quantity": 71,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 71
   },
   {
     "product_id": 4,
     "ingredient_id": 63,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 4,
     "ingredient_id": 107,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 4,
     "ingredient_id": 40,
-    "quantity": 71,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 71
   },
   {
     "product_id": 4,
     "ingredient_id": 50,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 4,
     "ingredient_id": 65,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 4,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 4,
     "ingredient_id": 110,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 4,
     "ingredient_id": 113,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 5,
     "ingredient_id": 100,
-    "quantity": 160,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 160
   },
   {
     "product_id": 5,
     "ingredient_id": 45,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 5,
     "ingredient_id": 63,
-    "quantity": 8,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 8
   },
   {
     "product_id": 5,
     "ingredient_id": 108,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 5,
     "ingredient_id": 6,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 5,
     "ingredient_id": 40,
-    "quantity": 70,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 70
   },
   {
     "product_id": 5,
     "ingredient_id": 118,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 5,
     "ingredient_id": 69,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 5,
     "ingredient_id": 112,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 5,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 6,
     "ingredient_id": 46,
-    "quantity": 130,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 130
   },
   {
     "product_id": 6,
     "ingredient_id": 20,
-    "quantity": 65,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 65
   },
   {
     "product_id": 6,
     "ingredient_id": 50,
-    "quantity": 23,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 23
   },
   {
     "product_id": 6,
     "ingredient_id": 114,
-    "quantity": 33,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 33
   },
   {
     "product_id": 6,
     "ingredient_id": 55,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 6,
     "ingredient_id": 49,
-    "quantity": 33,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 33
   },
   {
     "product_id": 6,
     "ingredient_id": 92,
-    "quantity": 33,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 33
   },
   {
     "product_id": 6,
     "ingredient_id": 65,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 6,
     "ingredient_id": 95,
-    "quantity": 33,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 33
   },
   {
     "product_id": 7,
     "ingredient_id": 20,
-    "quantity": 150,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 150
   },
   {
     "product_id": 7,
     "ingredient_id": 46,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 7,
     "ingredient_id": 24,
-    "quantity": 35,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 35
   },
   {
     "product_id": 7,
     "ingredient_id": 16,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 7,
     "ingredient_id": 75,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 7,
     "ingredient_id": 117,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 7,
     "ingredient_id": 35,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 7,
     "ingredient_id": 92,
-    "quantity": 35,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 35
   },
   {
     "product_id": 7,
     "ingredient_id": 50,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 7,
     "ingredient_id": 79,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 7,
     "ingredient_id": 65,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 7,
     "ingredient_id": 69,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 7,
     "ingredient_id": 95,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 7,
     "ingredient_id": 118,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 7,
     "ingredient_id": 111,
-    "quantity": "2,5",
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": "2,5"
   },
   {
     "product_id": 8,
     "ingredient_id": 53,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 8,
     "ingredient_id": 23,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 8,
     "ingredient_id": 46,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 8,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 8,
     "ingredient_id": 69,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 8,
     "ingredient_id": 65,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 9,
     "ingredient_id": 38,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 9,
     "ingredient_id": 40,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 9,
     "ingredient_id": 95,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 9,
     "ingredient_id": 65,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 9,
     "ingredient_id": 43,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 10,
     "ingredient_id": 115,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 10,
     "ingredient_id": 92,
-    "quantity": 60,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 60
   },
   {
     "product_id": 10,
     "ingredient_id": 118,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 10,
     "ingredient_id": 6,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 10,
     "ingredient_id": 13,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 10,
     "ingredient_id": 50,
-    "quantity": 4,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 4
   },
   {
     "product_id": 10,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 10,
     "ingredient_id": 65,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 11,
     "ingredient_id": 114,
-    "quantity": 300,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 300
   },
   {
     "product_id": 11,
     "ingredient_id": 20,
-    "quantity": 125,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 125
   },
   {
     "product_id": 11,
     "ingredient_id": 112,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 11,
     "ingredient_id": 50,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 11,
     "ingredient_id": 65,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 11,
     "ingredient_id": 95,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 12,
     "ingredient_id": 71,
-    "quantity": 400,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 400
   },
   {
     "product_id": 12,
     "ingredient_id": 114,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 12,
     "ingredient_id": 66,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 12,
     "ingredient_id": 112,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 12,
     "ingredient_id": 50,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 12,
     "ingredient_id": 65,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 12,
     "ingredient_id": 95,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 12,
     "ingredient_id": 55,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 13,
     "ingredient_id": 34,
-    "quantity": 65,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 65
   },
   {
     "product_id": 13,
     "ingredient_id": 95,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 13,
     "ingredient_id": 92,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 13,
     "ingredient_id": 56,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 13,
     "ingredient_id": 108,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 14,
     "ingredient_id": 32,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 14,
     "ingredient_id": 56,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 14,
     "ingredient_id": 49,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 14,
     "ingredient_id": 110,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 14,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 14,
     "ingredient_id": 118,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 14,
     "ingredient_id": 92,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 14,
     "ingredient_id": 40,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 15,
     "ingredient_id": 78,
-    "quantity": 250,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 250
   },
   {
     "product_id": 15,
     "ingredient_id": 20,
-    "quantity": 125,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 125
   },
   {
     "product_id": 15,
     "ingredient_id": 49,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 15,
     "ingredient_id": 118,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 15,
     "ingredient_id": 92,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 15,
     "ingredient_id": 50,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 15,
     "ingredient_id": 110,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 15,
     "ingredient_id": 95,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 15,
     "ingredient_id": 65,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 16,
     "ingredient_id": 76,
-    "quantity": 150,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 150
   },
   {
     "product_id": 16,
     "ingredient_id": 49,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 16,
     "ingredient_id": 65,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 16,
     "ingredient_id": 14,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 16,
     "ingredient_id": 114,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 16,
     "ingredient_id": 63,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 16,
     "ingredient_id": 67,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 16,
     "ingredient_id": 95,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 16,
     "ingredient_id": 110,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 17,
     "ingredient_id": 74,
-    "quantity": 170,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 170
   },
   {
     "product_id": 17,
     "ingredient_id": 70,
-    "quantity": 120,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 120
   },
   {
     "product_id": 17,
     "ingredient_id": 32,
-    "quantity": 70,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 70
   },
   {
     "product_id": 17,
     "ingredient_id": 95,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 17,
     "ingredient_id": 110,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 17,
     "ingredient_id": 18,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 17,
     "ingredient_id": 65,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 18,
     "ingredient_id": 39,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 18,
     "ingredient_id": 88,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 18,
     "ingredient_id": 32,
-    "quantity": 120,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 120
   },
   {
     "product_id": 19,
     "ingredient_id": 49,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 19,
     "ingredient_id": 63,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 19,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 19,
     "ingredient_id": 28,
-    "quantity": 130,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 130
   },
   {
     "product_id": 19,
     "ingredient_id": 108,
-    "quantity": 7,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 7
   },
   {
     "product_id": 19,
     "ingredient_id": 113,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 19,
     "ingredient_id": 110,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 19,
     "ingredient_id": 32,
-    "quantity": 420,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 420
   },
   {
     "product_id": 19,
     "ingredient_id": 118,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 19,
     "ingredient_id": 40,
-    "quantity": 70,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 70
   },
   {
     "product_id": 19,
     "ingredient_id": 6,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 19,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 20,
     "ingredient_id": 2,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 20,
     "ingredient_id": 49,
-    "quantity": 60,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 60
   },
   {
     "product_id": 20,
     "ingredient_id": 65,
-    "quantity": 13,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 13
   },
   {
     "product_id": 20,
     "ingredient_id": 67,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 20,
     "ingredient_id": 70,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 20,
     "ingredient_id": 108,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 20,
     "ingredient_id": 95,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 20,
     "ingredient_id": 113,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 20,
     "ingredient_id": 50,
-    "quantity": 7,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 7
   },
   {
     "product_id": 21,
     "ingredient_id": 1,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 21,
     "ingredient_id": 67,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 21,
     "ingredient_id": 49,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 21,
     "ingredient_id": 23,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 21,
     "ingredient_id": 73,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 21,
     "ingredient_id": 112,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 21,
     "ingredient_id": 63,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 21,
     "ingredient_id": 20,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 21,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 21,
     "ingredient_id": 110,
-    "quantity": 4,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 4
   },
   {
     "product_id": 21,
     "ingredient_id": 108,
-    "quantity": 4,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 4
   },
   {
     "product_id": 21,
     "ingredient_id": 4,
-    "quantity": 4,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 4
   },
   {
     "product_id": 21,
     "ingredient_id": 51,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 22,
     "ingredient_id": 37,
-    "quantity": 250,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 250
   },
   {
     "product_id": 22,
     "ingredient_id": 89,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 22,
     "ingredient_id": 90,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 22,
     "ingredient_id": 74,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 22,
     "ingredient_id": 98,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 22,
     "ingredient_id": 28,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 22,
     "ingredient_id": 67,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 22,
     "ingredient_id": 49,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 22,
     "ingredient_id": 87,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 22,
     "ingredient_id": 108,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 22,
     "ingredient_id": 110,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 22,
     "ingredient_id": 17,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 22,
     "ingredient_id": 65,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 22,
     "ingredient_id": 113,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 23,
     "ingredient_id": 99,
-    "quantity": 250,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 250
   },
   {
     "product_id": 23,
     "ingredient_id": 32,
-    "quantity": 150,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 150
   },
   {
     "product_id": 23,
     "ingredient_id": 49,
-    "quantity": 80,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 80
   },
   {
     "product_id": 23,
     "ingredient_id": 112,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 23,
     "ingredient_id": 56,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 23,
     "ingredient_id": 9,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 23,
     "ingredient_id": 114,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 23,
     "ingredient_id": 85,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 23,
     "ingredient_id": 110,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 23,
     "ingredient_id": 17,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 23,
     "ingredient_id": 3,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 23,
     "ingredient_id": 22,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 23,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 24,
     "ingredient_id": 91,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 24,
     "ingredient_id": 59,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 24,
     "ingredient_id": 84,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 24,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 24,
     "ingredient_id": 26,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 24,
     "ingredient_id": 49,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 24,
     "ingredient_id": 108,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 24,
     "ingredient_id": 110,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 24,
     "ingredient_id": 17,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 24,
     "ingredient_id": 19,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 24,
     "ingredient_id": 20,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 24,
     "ingredient_id": 3,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 24,
     "ingredient_id": 11,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 24,
     "ingredient_id": 6,
-    "quantity": 60,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 60
   },
   {
     "product_id": 24,
     "ingredient_id": 67,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 24,
     "ingredient_id": 25,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 25,
     "ingredient_id": 28,
-    "quantity": 150,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 150
   },
   {
     "product_id": 25,
     "ingredient_id": 16,
-    "quantity": 80,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 80
   },
   {
     "product_id": 25,
     "ingredient_id": 49,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 25,
     "ingredient_id": 114,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 25,
     "ingredient_id": 50,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 25,
     "ingredient_id": 118,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 25,
     "ingredient_id": 13,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 25,
     "ingredient_id": 110,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 25,
     "ingredient_id": 52,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 25,
     "ingredient_id": 113,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 25,
     "ingredient_id": 95,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 25,
     "ingredient_id": 6,
-    "quantity": 9,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 9
   },
   {
     "product_id": 25,
     "ingredient_id": 65,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 26,
     "ingredient_id": 28,
-    "quantity": 250,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 250
   },
   {
     "product_id": 26,
     "ingredient_id": 39,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 26,
     "ingredient_id": 112,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 26,
     "ingredient_id": 95,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 27,
     "ingredient_id": 91,
-    "quantity": 150,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 150
   },
   {
     "product_id": 27,
     "ingredient_id": 54,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 27,
     "ingredient_id": 16,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 27,
     "ingredient_id": 94,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 27,
     "ingredient_id": 11,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 27,
     "ingredient_id": 118,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 27,
     "ingredient_id": 64,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 27,
     "ingredient_id": 95,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 27,
     "ingredient_id": 110,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 28,
     "ingredient_id": 83,
-    "quantity": 400,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 400
   },
   {
     "product_id": 28,
     "ingredient_id": 63,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 28,
     "ingredient_id": 107,
-    "quantity": 40,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 40
   },
   {
     "product_id": 28,
     "ingredient_id": 49,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 28,
     "ingredient_id": 16,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 28,
     "ingredient_id": 20,
-    "quantity": 80,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 80
   },
   {
     "product_id": 28,
     "ingredient_id": 118,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 28,
     "ingredient_id": 38,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 28,
     "ingredient_id": 47,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 28,
     "ingredient_id": 9,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 28,
     "ingredient_id": 97,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 28,
     "ingredient_id": 50,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 28,
     "ingredient_id": 110,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 28,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 28,
     "ingredient_id": 65,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 28,
     "ingredient_id": 6,
-    "quantity": 60,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 60
   },
   {
     "product_id": 28,
     "ingredient_id": 118,
-    "quantity": 14,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 14
   },
   {
     "product_id": 29,
     "ingredient_id": 93,
-    "quantity": 300,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 300
   },
   {
     "product_id": 29,
     "ingredient_id": 20,
-    "quantity": 70,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 70
   },
   {
     "product_id": 29,
     "ingredient_id": 47,
-    "quantity": 7,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 7
   },
   {
     "product_id": 29,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 29,
     "ingredient_id": 110,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 29,
     "ingredient_id": 65,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 30,
     "ingredient_id": 6,
-    "quantity": 85,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 85
   },
   {
     "product_id": 30,
     "ingredient_id": 60,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 30,
     "ingredient_id": 118,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 30,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 30,
     "ingredient_id": 80,
-    "quantity": 35,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 35
   },
   {
     "product_id": 30,
     "ingredient_id": 65,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 30,
     "ingredient_id": 22,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 30,
     "ingredient_id": 112,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 31,
     "ingredient_id": 6,
-    "quantity": 75,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 75
   },
   {
     "product_id": 31,
     "ingredient_id": 118,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 31,
     "ingredient_id": 65,
-    "quantity": 5,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 5
   },
   {
     "product_id": 31,
     "ingredient_id": 69,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 31,
     "ingredient_id": 95,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 31,
     "ingredient_id": 56,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 31,
     "ingredient_id": 92,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 32,
     "ingredient_id": 44,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 32,
     "ingredient_id": 101,
-    "quantity": 80,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 80
   },
   {
     "product_id": 32,
     "ingredient_id": 22,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 32,
     "ingredient_id": 65,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 32,
     "ingredient_id": 30,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 32,
     "ingredient_id": 48,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 33,
     "ingredient_id": 118,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 33,
     "ingredient_id": 22,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 33,
     "ingredient_id": 6,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 33,
     "ingredient_id": 15,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 33,
     "ingredient_id": 95,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 33,
     "ingredient_id": 10,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 33,
     "ingredient_id": 22,
-    "quantity": 60,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 60
   },
   {
     "product_id": 33,
     "ingredient_id": "",
-    "quantity": 70,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 70
   },
   {
     "product_id": 33,
     "ingredient_id": 56,
-    "quantity": 7,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 7
   },
   {
     "product_id": 33,
     "ingredient_id": 47,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 33,
     "ingredient_id": 31,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 33,
     "ingredient_id": 10,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 33,
     "ingredient_id": 80,
-    "quantity": 65,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 65
   },
   {
     "product_id": 33,
     "ingredient_id": 64,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 33,
     "ingredient_id": 22,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 33,
     "ingredient_id": 10,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 34,
     "ingredient_id": 67,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 34,
     "ingredient_id": "",
-    "quantity": 65,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 65
   },
   {
     "product_id": 34,
     "ingredient_id": 80,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 34,
     "ingredient_id": 42,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 34,
     "ingredient_id": 22,
-    "quantity": 35,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 35
   },
   {
     "product_id": 35,
     "ingredient_id": 21,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 35,
     "ingredient_id": 81,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 35,
     "ingredient_id": 80,
-    "quantity": 140,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 140
   },
   {
     "product_id": 35,
     "ingredient_id": 47,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 35,
     "ingredient_id": 30,
-    "quantity": 3,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 3
   },
   {
     "product_id": 35,
     "ingredient_id": 105,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 35,
     "ingredient_id": 81,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 36,
     "ingredient_id": 118,
-    "quantity": 30,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 30
   },
   {
     "product_id": 36,
     "ingredient_id": 80,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 36,
     "ingredient_id": 22,
-    "quantity": 35,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 35
   },
   {
     "product_id": 36,
     "ingredient_id": 10,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 37,
     "ingredient_id": 65,
-    "quantity": 15,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 15
   },
   {
     "product_id": 37,
     "ingredient_id": "",
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 37,
     "ingredient_id": 95,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 37,
     "ingredient_id": 6,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 37,
     "ingredient_id": 118,
-    "quantity": 25,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 25
   },
   {
     "product_id": 37,
     "ingredient_id": 65,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 37,
     "ingredient_id": 22,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 37,
     "ingredient_id": 10,
-    "quantity": 1,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 1
   },
   {
     "product_id": 38,
     "ingredient_id": 5,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 38,
     "ingredient_id": 80,
-    "quantity": 120,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 120
   },
   {
     "product_id": 38,
     "ingredient_id": 118,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 38,
     "ingredient_id": 6,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 38,
     "ingredient_id": 22,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 38,
     "ingredient_id": 66,
-    "quantity": 20,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 20
   },
   {
     "product_id": 38,
     "ingredient_id": 97,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 38,
     "ingredient_id": 86,
-    "quantity": 10,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 10
   },
   {
     "product_id": 38,
     "ingredient_id": 10,
-    "quantity": 2,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 2
   },
   {
     "product_id": 39,
     "ingredient_id": 33,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 40,
     "ingredient_id": 33,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 40,
     "ingredient_id": 62,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 41,
     "ingredient_id": 29,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 41,
     "ingredient_id": 62,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 42,
     "ingredient_id": 41,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 43,
     "ingredient_id": 72,
-    "quantity": 200,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 200
   },
   {
     "product_id": 44,
     "ingredient_id": 82,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 45,
     "ingredient_id": 12,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 46,
     "ingredient_id": 58,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 47,
     "ingredient_id": 102,
-    "quantity": 100,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 100
   },
   {
     "product_id": 48,
     "ingredient_id": 58,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   },
   {
     "product_id": 48,
     "ingredient_id": 61,
-    "quantity": 50,
-    "createdOn": "",
-    "updatedOn": ""
+    "quantity": 50
   }
 ]
