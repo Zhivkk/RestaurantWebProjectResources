@@ -1521,11 +1521,6 @@
   },
   {
     "product_id": 33,
-    "ingredient_id": "",
-    "quantity": 70
-  },
-  {
-    "product_id": 33,
     "ingredient_id": 56,
     "quantity": 7
   },
