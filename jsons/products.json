@@ -703,12 +703,124 @@
     "id": 51,
     "productName": "Блъди мери",
     "productCategory": "ALCOHOL",
-    "description": "Вашият горещ избор ...",
+    "description": "В Париж писателят Ърнест Хемингуей вихрел страстна извънбрачна връзка с журналистката Мери Уелш. Срещали се в хотел Риц. Веднъж писателят се оплакал на бармана, че когато се прибирал вкъщи, жена му вдигала скандал, защото писателят миришел на алкохол. Специално за целта той измислил коктейл на базата на водка и доматен сок. По-късно Мери Уелш ще стане четвъртата и последна съпруга на писателя.",
     "productIngredient": "",
     "preparation": "Смесете водка и доматен сок в равни количества. Подправете с листа мента. Украсете с резенче лимон.",
     "grammage": 50,
     "price": "9.00",
     "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/51.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 52,
+    "productName": "Текила сънрайз",
+    "productCategory": "ALCOHOL",
+    "description": "Изключително приятен и ободряващ коктейл с текила. Гъстият гренадин, който остава на дъното на чашата и цветът на портокаловият сок създават неповторимото усещане за красив сутрешен изгрев.",
+    "productIngredient": "",
+    "preparation": "В шейкър се смесват текилата, сокът от портокала и лимона, ледът. Изсипете в подходяща чаша и внимателно добавете гренадина, така че да падне на дъното. Декорирайте с резен лимон.",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/52.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 53,
+    "productName": "Маргарита",
+    "productCategory": "ALCOHOL",
+    "description": "Този любим на мнозина коктейл има няколко вариации, но ние ви предлагаме класическата рецепта.",
+    "productIngredient": "",
+    "preparation": "2 части текила,2 части сок от зелен лимон, 1 част портокалов ликьор, лед, резен лайм. Смесете продуктите в шейкър. Изсипете в чаша, чийто ръб сте потопили предварително в сок от лайм и сол. Украсяваме с резенче лимон.",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/53.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 54,
+    "productName": "Лонг Айлънд",
+    "productCategory": "ALCOHOL",
+    "description": "Родината на този „студен чай“ е Ню Йорк. Успокояващ, тонизиращ, опияняващ, този коктейл ще ви даде всичко, от което имате нужда.",
+    "productIngredient": "",
+    "preparation": "30 мл водка, 30 мл текила, 30 мл ром, 20 мл портокалов сок, 20 мл лимонов сок, 50 мл Кока-Кола, Лед. Смесваме всички съставки без колата и изсипваме във висока чаша с лед. Добавяме колата и украсяваме с резенчета лимон или портокал.",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/54.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 55,
+    "productName": "Куба либре",
+    "productCategory": "ALCOHOL",
+    "description": "Коктейлът е приготвен за първи път в хавана през 1900 година, когато американските войници смесват ром и Кока-Кола и с напитката вдигали наздравици с викове: „За свободна Куба“.",
+    "productIngredient": "",
+    "preparation": "Смесват се 50 мл бял ром, 100 мл Кока-Кола и сокът на 1 бр. лайм",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/55.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 56,
+    "productName": "Дайкири",
+    "productCategory": "ALCOHOL",
+    "description": "Напитка, придобила популярност, благодарение на герой от романите на Ърнест Хемингуей. Опитвайки се да се разхлади от жаркото кубинско слънце, Кокс смесва ром, лимонов сок и лед. Комбинацията се оказва повече от успешна.",
+    "productIngredient": "",
+    "preparation": "Разбиваме в шейкър 60 мл бял ром, 2 ч.л. сок от лайм, 1 ч.л пудра захар" с лед. Сервира се в чаша за мартини. Вместо пудра захар, може да се използва захарен сироп.",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/56.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 57,
+    "productName": "Пиня колада",
+    "productCategory": "ALCOHOL",
+    "description": "Този вълшебен коктейл е дело на пуерториканските бармани, които изкушавали с напитката своите клиенти, почиващи на приказните плажове.",
+    "productIngredient": "",
+    "preparation": "Смесваме 30 мл бял ром, 30 мл кокосово мляко, 90 мл сок от ананас с натрошен лед и разбиваме, докато се получи равномерна консистенция.",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/57.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 58,
+    "productName": "Секс на плажа",
+    "productCategory": "ALCOHOL",
+    "description": "Трудно е да се каже кой е „кръстникът“ на този коктейл, но името не остава съмнения къде е най-добре да се консумира разхладителната и вкусна напитка.",
+    "productIngredient": "",
+    "preparation": "30 мл водка, 25 мл ликьор праскова, 75 мл сок от ананас, 75 мл сок от боровинка. В чаша с лед се изсипва водката, ликьорът и двата вида сок. Украсяваме с резен портокал или коктейлна черешка.",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/58.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 59,
+    "productName": "Мохито",
+    "productCategory": "ALCOHOL",
+    "description": "Традиционен кубински коктейл. Комбинацията от освежаващ цитрус и дъх на мента прикрива силния опияняващ ефект на рома и прави коктейла подходящ за лятото.",
+    "productIngredient": "",
+    "preparation": "Смесваме 60 мл бял ром, 100 мл газирана вода, сок от захарна тръстика или малко кафява захар, сок от 1 лимон, 5-4 листа мента, лед и сервираме във висока чаша",
+    "grammage": 50,
+    "price": "14.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/59.jpg",
     "productStatus": "AVAILABLE",
     "createdOn": "",
     "updatedOn": ""
