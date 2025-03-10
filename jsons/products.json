@@ -671,4 +671,46 @@
     "createdOn": "",
     "updatedOn": ""
   }
+  {
+    "id": 49,
+    "productName": "Бяло вино, наливно",
+    "productCategory": "ALCOHOL",
+    "description": "Перфектен избор за горещите дни или за специални поводи.",
+    "productIngredient": "",
+    "preparation": "",
+    "grammage": 100,
+    "price": "8.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/49.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 50,
+    "productName": "Червено вино, наливно",
+    "productCategory": "ALCOHOL",
+    "description": "Перфектен избор за горещите дни или за специални поводи.",
+    "productIngredient": "",
+    "preparation": "",
+    "grammage": 100,
+    "price": "8.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/50.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
+  {
+    "id": 51,
+    "productName": "Блъди мери",
+    "productCategory": "ALCOHOL",
+    "description": "Вашият горещ избор ...",
+    "productIngredient": "",
+    "preparation": "Смесете водка и доматен сок в равни количества. Подправете с листа мента. Украсете с резенче лимон.",
+    "grammage": 50,
+    "price": "9.00",
+    "picture": "https://raw.githubusercontent.com/Zhivkk/RestaurantWebProjectResources/main/menu/51.jpg",
+    "productStatus": "AVAILABLE",
+    "createdOn": "",
+    "updatedOn": ""
+  }
 ]
